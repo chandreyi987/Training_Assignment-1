@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premier::Behance</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.6.0/fonts/remixicon.min.css">
+    <link rel="stylesheet" href="https://gistcdn.githack.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css">
+</head>
+<body>
+    <div id="main">
+        <div id="nav">
+            <h1>premier</h1>
+            <h2>Models</h2>
+            <h2>Women/Man</h2>
+            <h2>Agency/Blog/Information</h2>
+            <h2><i class="ri-search-line"></i></h2>
+            <button><i class="ri-moon-fill"></i></button>
+        </div>
+        <div id="video-container">
+            <video autoplay loop muted src="Premier-Asset-main/Video.mp4"></video>
+        </div>
+        <div id="title">
+            <h4>Photography </br> and Films</h4>
+            <h3>01</h3>
+        </div>
+        <div id="below">
+            <h3>Explore</h3>
+            <h4><i class="ri-arrow-right-long-fill"></i></h4>
+        </div>
+    </div>
+    <div id="profiles">
+        <figure>
+            <img src="Premier-Asset-main/img (1).jpg" alt="Profile 1">
+            <figcaption>Charlotte F.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (2).jpg" alt="Profile 2">
+            <figcaption>Elise Wilde</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (3).jpg" alt="Profile 3">
+            <figcaption>Mia Wallace</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (4).jpg" alt="Profile 4">
+            <figcaption>Cassandra T.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (5).jpg" alt="Profile 5">
+            <figcaption>Nina Sayers</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (6).jpg" alt="Profile 6">
+            <figcaption>Elizabeth S.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (1).jpg" alt="Profile 1">
+            <figcaption>Charlotte F.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (2).jpg" alt="Profile 2">
+            <figcaption>Elise Wilde</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (3).jpg" alt="Profile 3">
+            <figcaption>Mia Wallace</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (4).jpg" alt="Profile 4">
+            <figcaption>Cassandra T.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (5).jpg" alt="Profile 5">
+            <figcaption>Nina Sayers</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (6).jpg" alt="Profile 6">
+            <figcaption>Elizabeth S.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (1).jpg" alt="Profile 1">
+            <figcaption>Charlotte F.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (2).jpg" alt="Profile 2">
+            <figcaption>Elise Wilde</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (3).jpg" alt="Profile 3">
+            <figcaption>Mia Wallace</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (4).jpg" alt="Profile 4">
+            <figcaption>Cassandra T.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (5).jpg" alt="Profile 5">
+            <figcaption>Nina Sayers</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (6).jpg" alt="Profile 6">
+            <figcaption>Elizabeth S.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (1).jpg" alt="Profile 1">
+            <figcaption>Charlotte F.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (2).jpg" alt="Profile 2">
+            <figcaption>Elise Wilde</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (3).jpg" alt="Profile 3">
+            <figcaption>Mia Wallace</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (4).jpg" alt="Profile 4">
+            <figcaption>Cassandra T.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (5).jpg" alt="Profile 5">
+            <figcaption>Nina Sayers</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (6).jpg" alt="Profile 6">
+            <figcaption>Elizabeth S.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (1).jpg" alt="Profile 1">
+            <figcaption>Charlotte F.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (2).jpg" alt="Profile 2">
+            <figcaption>Elise Wilde</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (3).jpg" alt="Profile 3">
+            <figcaption>Mia Wallace</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (4).jpg" alt="Profile 4">
+            <figcaption>Cassandra T.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (5).jpg" alt="Profile 5">
+            <figcaption>Nina Sayers</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (6).jpg" alt="Profile 6">
+            <figcaption>Elizabeth S.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (1).jpg" alt="Profile 1">
+            <figcaption>Charlotte F.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (2).jpg" alt="Profile 2">
+            <figcaption>Elise Wilde</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (3).jpg" alt="Profile 3">
+            <figcaption>Mia Wallace</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (4).jpg" alt="Profile 4">
+            <figcaption>Cassandra T.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (5).jpg" alt="Profile 5">
+            <figcaption>Nina Sayers</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (6).jpg" alt="Profile 6">
+            <figcaption>Elizabeth S.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (1).jpg" alt="Profile 1">
+            <figcaption>Charlotte F.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (2).jpg" alt="Profile 2">
+            <figcaption>Elise Wilde</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (3).jpg" alt="Profile 3">
+            <figcaption>Mia Wallace</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (4).jpg" alt="Profile 4">
+            <figcaption>Cassandra T.</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (5).jpg" alt="Profile 5">
+            <figcaption>Nina Sayers</figcaption>
+        </figure>
+        <figure>
+            <img src="Premier-Asset-main/img (6).jpg" alt="Profile 6">
+            <figcaption>Elizabeth S.</figcaption>
+        </figure>
+    </div>
+    <div id="alphabets">
+        <h3>ALL</h3>
+        <h4>A</h4>
+        <h4>B</h4>
+        <h4>C</h4>
+        <h4>D</h4>
+        <h4>E</h4>
+        <h4>F</h4>
+        <h4>G</h4>
+        <h4>H</h4>
+        <h4>I</h4>
+        <h4>J</h4>
+        <h4>K</h4>
+        <h4>L</h4>
+        <h4>M</h4>
+        <h4>N</h4>
+        <h4>O</h4>
+        <h4>P</h4>
+        <h4>Q</h4>
+        <h4>R</h4>
+        <h4>S</h4>
+        <h4>T</h4>
+        <h4>U</h4>
+        <h4>V</h4>
+        <h4>W</h4>
+        <h4>X</h4>
+        <h4>Y</h4>
+        <h4>Z</h4>
+    </div>
+    <div id="page1">
+        <div id="page1-left">
+            <img src="Premier-Asset-main/img (12).jpg" alt="Photo1">
+            <p>VOGUE/SHOT</p>
+        </div>
+        <div id="page1-right">
+            <div id="right-image">
+                <img src="Premier-Asset-main/img (7).jpg" alt="Photo2">
+            </div>
+            <div id="para">
+                <p id="para1">Hannah Motler features in a fashion story by the lake for Vogue new shoot</p>
+                <p id="para2">Such exposure to the fashion and beauty industries enabled her passion for branding
+                and creativity to transition from one side of the camera to the other</p>
+            </div>
+        </div>
+    </div>
+    <div id="page2">
+        <div id="left-part">
+            <img src="Premier-Asset-main/circle.png" alt="circle">
+            <p>Maison ARTC: memories and culture, </br> the base of futurustic fashion awareness. </br> Tilila Oulhaj look</p>
+        </div>
+        <div id="right-part">
+            <img src="Premier-Asset-main/img (9).png" alt="Photo3">
+        </div>
+    </div>
+    <div id="page3">
+        <img src="Premier-Asset-main/img (10).jpg" alt="Photo4">
+    </div>
+    <div id="page4">
+        <h3>UPDATES</h3>
+        <div id="creator1">
+            <h4>MENS FASHION</h4>
+            <img src="Premier-Asset-main/img (13).jpg" alt="Profile1">
+            <h3>Khadim & Tom Ford</h3>
+        </div>
+        <div id="creator2">
+            <h4>WOMENS FASHION</h4>
+            <img src="Premier-Asset-main/img (8).jpg" alt="Profile1">
+            <h3>Arenna Homme</h3>
+        </div>
+        <div id="notice1">
+            <h4>SPECIAL VIEW</h4>
+            <h2>Exclusive</h2>
+            <h3>Jing for Wonderland</h3>
+        </div>
+        <div id="notice2">
+            <h4>MODELS TALK</h4>
+            <h3>Glass X Belle</h3>
+        </div>
+    </div>
+    <div id="page5">
+        <div id="leftPart">
+            <img src="Premier-Asset-main/img (11).jpg" alt="Shot1">
+        </div>
+        <div id="rightPart">
+            <h3>MOVIE SHOT</h3>
+            <p id="para1">London based Tom Mitchell has a distinct aesthetic within his photography and moving image</p>
+            <p id="para2">Tom's calm nature and eagerness to create; while still maintaining a high level of professionalism
+                ;</br>has seen him slide into the fashion industry - photographing campaigns, look books, editorials,
+                portraits, short films and TV commercials.
+            </p>
+            <div id="images">
+                <img src="Premier-Asset-main/img (2).jpg" alt="Shot2">
+                <img src="Premier-Asset-main/img (8).jpg" alt="Shot3">
+            </div>
+        </div>
+    </div>
+    <div id="page6">
+        <img src="Premier-Asset-main/img (14).jpg" alt="Bg1">
+    </div>
+    <div id="page7">
+        <div id="left7">
+            <img src="Premier-Asset-main/img (1).jpg" alt="Ad1">
+        </div>
+        <div id="right7">
+            <img src="Premier-Asset-main/img (10).jpg" alt="Ad2">
+            <div id="text7">
+                <p id="para1">"Body" and "No Lie" - 90s inspired R&B sounds drawing new comparisons to Dua Lipa</p>
+                <p id="para2">There aren't many 22-year olds with the introspection of
+                    Icelandic artist Glowie - real name Sara Petursdottir - but then again,
+                    she's always been the one for doing her own thing.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div id="banner">
+        <h2>PREMIER</h2>
+        <h2>MODELS</h2>
+        <h2>2020</h2>
+        <h2>PREMIER</h2>
+        <h2>MODELS</h2>
+        <h2>2020</h2>
+        <h2>PREMIER</h2>
+        <h2>MODELS</h2>
+        <h2>2020</h2>
+        <h2>PREMIER</h2>
+        <h2>MODELS</h2>
+        <h2>2020</h2>
+        <h2>PREMIER</h2>
+        <h2>MODELS</h2>
+        <h2>2020</h2>
+        <h2>PREMIER</h2>
+        <h2>MODELS</h2>
+        <h2>2020</h2>
+        <h2>PREMIER</h2>
+        <h2>MODELS</h2>
+        <h2>2020</h2>
+        <h2>PREMIER</h2>
+        <h2>MODELS</h2>
+        <h2>2020</h2>
+        <h2>PREMIER</h2>
+        <h2>MODELS</h2>
+        <h2>2020</h2>
+        <h2>PREMIER</h2>
+        <h2>MODELS</h2>
+        <h2>2020</h2>
+    </div>
+    <div id="blogs">
+        <div id="title">
+            <h2>BLOG</h2>
+        </div>
+        <div id="posts">
+            <figure>
+                <figcaption>
+                    <p id="symbol">B</p>
+                    <p id="text">Jack Thompson features in a story crossing bridges for ID magazine</br>Shot by Maxwell Tomlinson</br>Styled by Louise Prier Tisdall</p>
+                </figcaption>
+                <img src="Premier-Asset-main/img (13).jpg" alt="blog1">
+            </figure>
+            <figure>
+                <figcaption>
+                    <p id="symbol">B</p>
+                    <p id="text">As London Fashion Week has come to an end,</br>we've made a list of our </br>fresh new faces and showgirls</br>who have had walked for some of the biggest designers</p>
+                </figcaption>
+                <img src="Premier-Asset-main/img (5).jpg" alt="blog1">
+            </figure>
+        </div>
+    </div>
+    <div id="end">
+        <div id="other">
+            <h1>premier</h1>
+            <h2>Models</h2>
+            <h2>Women/Man</h2>
+        </div>
+        <div id="contact">
+            <h2>Agency/Blog/Information/Contact Us</h2>
+            <h3><i class="ri-instagram-line"></i><i class="ri-twitter-fill"></i><i class="ri-facebook-box-fill"></i><i class="ri-youtube-fill"></i><i class="ri-linkedin-fill"></i></h3>
+            <p>© All content copyright <br> PREMIER MODELS Inc. 1981-2020 <br> or their respective owners where indicated</p>
+        </div>
+    </div>
+</body>
+</html>
